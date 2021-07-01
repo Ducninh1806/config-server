@@ -4,8 +4,3 @@ text.copyright= ducninh1806
 # DATABASE
 # ===============================
 
-spring:
-  datasource:
-    username: sbd
-    password: sbd123
-    url: jdbc:mariadb://10.168.40.48:3306/wifi_vcm?useLegacyDatetimeCode=false&serverTimezone=UTC
